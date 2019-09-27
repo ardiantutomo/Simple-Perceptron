@@ -51,16 +51,3 @@ while(True):
 print("Epochs: ", epochs)
 print("W :", w)
 print("Bias :", bias)
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
